@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bd8d96a-282e-4444-90fa-ca386a2d201f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Mahjong.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Main.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Dg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Dr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Dw.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/We.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Wn.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Ws.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Ww.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d9.png" />
+      <change beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,12 +16,12 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="103" column="44" lean-forward="true" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+            <state relative-caret-position="571">
+              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <element signature="e#144#248#0" expanded="false" />
-                <marker date="1518035917109" expanded="false" signature="251:736" ph="..." />
+                <marker date="1518037548031" expanded="false" signature="251:848" ph="..." />
               </folding>
             </state>
           </provider>
@@ -98,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="32" />
     <option name="y" value="16" />
     <option name="width" value="1346" />
@@ -194,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10364583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -220,7 +173,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -234,12 +189,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="103" column="44" lean-forward="true" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+        <state relative-caret-position="571">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#144#248#0" expanded="false" />
-            <marker date="1518035917109" expanded="false" signature="251:736" ph="..." />
+            <marker date="1518037548031" expanded="false" signature="251:848" ph="..." />
           </folding>
         </state>
       </provider>
