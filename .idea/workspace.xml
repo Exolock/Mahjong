@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bd8d96a-282e-4444-90fa-ca386a2d201f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Mahjong.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Dg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Dr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Dw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/F8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/We.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Wn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Ws.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/Ww.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/b9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/c9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mahjong_tiles/d9.png" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="103" column="44" lean-forward="true" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#144#248#0" expanded="false" />
+                <marker date="1518035917109" expanded="false" signature="251:736" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dot</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="32" />
+    <option name="y" value="16" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mahjong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mahjong" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Mahjong" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bd8d96a-282e-4444-90fa-ca386a2d201f" name="Default" comment="" />
+      <created>1518020616656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518020616656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10364583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23753977" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="3533" column="11" lean-forward="true" selection-start-line="3533" selection-start-column="11" selection-end-line="3533" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="103" column="44" lean-forward="true" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#144#248#0" expanded="false" />
+            <marker date="1518035917109" expanded="false" signature="251:736" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
