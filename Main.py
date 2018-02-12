@@ -33,15 +33,18 @@ bone_images = [[bone_image(value) for value in row] for row in bones]
 
 
 def on_bone_click(type, x, y):
-    print(x, y)
-
     bone = bones[y][x]
     img = bone_images[y][x]
+    print(x, y, bone)
 
     if type == 'h':
         image_container = Label(hand_grid, image=img)
         image_container.grid(row=11, sticky=W, column=len(hand))
-        hand.append({'bone': bone, 'image': image_container})
+
+        bone_object = {'bone': bone, 'image': image_container, 'row': 11}
+        hand.append(bone_object)
+
+        image_container.bind('<Button-1>', lambda e: remove_image(bone_object, hand))
 
     if type == 'm':
         image_container = Label(open_grid, image=img)
@@ -63,8 +66,14 @@ def render_images():
     pass
 
 
-def remove_image(index, array):
-    pass
+def remove_image(bone_object, array):
+    index = array.index(bone_object)
+    bone_image = array[index]['image']
+    bone_image.destroy()
+    array.remove(bone_object)
+
+    for index, bone_object in enumerate(array):
+        bone_object['image'].grid(row=bone_object['row'], sticky=W, column=index)
 
 
 def bones_list(title, type):
